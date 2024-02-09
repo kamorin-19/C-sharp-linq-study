@@ -48,5 +48,11 @@ namespace effective_c_sharp
                 yield return letter;
                 letter++;            }
         }
+
+        public static void ForAll<T>(IEnumerable<T> sequence, Action<T> action)
+        {
+            foreach(T item in sequence)
+                action(item);
+        }
     }
 }

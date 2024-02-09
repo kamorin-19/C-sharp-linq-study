@@ -1,7 +1,6 @@
 ﻿using effective_c_sharp;
 
-foreach (char character in StaticClass.GenerateAlphabet())
-{
-    Console.WriteLine(character);
-}
-;
+var foo = (from n in Enumerable.Range(0, 100)
+           select n * n).ToArray();
+
+foo.ForAll((n) => Console.WriteLine(n.ToString()));
