@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using effective_c_sharp;
+
+foreach (char character in StaticClass.GenerateAlphabet())
+{
+    Console.WriteLine(character);
+}
+;

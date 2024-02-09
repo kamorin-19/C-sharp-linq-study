@@ -1,0 +1,15 @@
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\bin\Debug\net6.0\effective-c-sharp.exe
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\bin\Debug\net6.0\effective-c-sharp.deps.json
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\bin\Debug\net6.0\effective-c-sharp.runtimeconfig.json
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\bin\Debug\net6.0\effective-c-sharp.dll
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\bin\Debug\net6.0\effective-c-sharp.pdb
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\obj\Debug\net6.0\effective-c-sharp.csproj.AssemblyReference.cache
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\obj\Debug\net6.0\effective-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\obj\Debug\net6.0\effective-c-sharp.AssemblyInfoInputs.cache
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\obj\Debug\net6.0\effective-c-sharp.AssemblyInfo.cs
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\obj\Debug\net6.0\effective-c-sharp.csproj.CoreCompileInputs.cache
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\obj\Debug\net6.0\effective-c-sharp.dll
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\obj\Debug\net6.0\refint\effective-c-sharp.dll
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\obj\Debug\net6.0\effective-c-sharp.pdb
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\obj\Debug\net6.0\effective-c-sharp.genruntimeconfig.cache
+D:\10_study\c-sharp-linq-study\C-sharp-linq-study\effective-c-sharp\effective-c-sharp\obj\Debug\net6.0\ref\effective-c-sharp.dll
