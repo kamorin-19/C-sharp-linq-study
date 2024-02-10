@@ -54,5 +54,19 @@ namespace effective_c_sharp
             foreach(T item in sequence)
                 action(item);
         }
+
+        public static IEnumerable<int> UniqueV2(IEnumerable<int> nums)
+        {
+            var uniqueVals = new HashSet<int>();
+            foreach(var num in nums)
+            {
+                if (!uniqueVals.Contains(num))
+                {
+                    uniqueVals.Add(num);
+                    Console.WriteLine(num);
+                    yield return num;
+                }
+            }
+        }
     }
 }
